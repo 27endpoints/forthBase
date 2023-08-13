@@ -154,10 +154,10 @@ figcaption {
   position: fixed;
   bottom: 20px;
   right: 4px;
-  color: #fff;
+  color: blue;
   cursor: pointer;
   font-size: 35px;
-  background-color: blue;
+  
 }
 /* footer */
 footer {
