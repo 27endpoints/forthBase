@@ -157,6 +157,7 @@ figcaption {
   color: #fff;
   cursor: pointer;
   font-size: 35px;
+  background-color: blue;
 }
 /* footer */
 footer {
