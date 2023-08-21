@@ -283,8 +283,9 @@ footer ol li a {
 
 .print-out {
   font-family: arial, sans-serif;
+  font-size: 10px;
   margin: 15px;
-  padding: 10px 5px;
+  padding: 10px 10px;
   background-color: #000000;
   color: #0018f9;
 }
