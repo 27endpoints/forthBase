@@ -253,7 +253,7 @@ footer ol li a {
   bottom: 10%;
   width: 80%;
   height: min-content;
-  background-color: #212121;
+  background-color: #121212;
   overflow: hidden;
   
 }
@@ -264,6 +264,7 @@ footer ol li a {
   align-items: center;
   display: flex;
   justify-content: center;
+  background-color: #121212;
 }
 .close-steps {
   display: flex;
