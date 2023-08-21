@@ -255,7 +255,7 @@ footer ol li a {
   height: min-content;
   background-color: #121212;
   overflow: hidden;
-    border: 1px silver solid;
+    
 
   
 }
@@ -282,9 +282,9 @@ footer ol li a {
 }
 
 .print-out {
-font-family: arial, sens-serif;
+  font-family: arial, sens-serif;
   margin: 15px;
-  padding: 5px 5px;
+  padding: 10px 5px;
   background-color: #000000;
   color: #0018f9;
 }
