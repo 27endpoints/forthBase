@@ -280,7 +280,9 @@ footer ol li a {
 
 .print-out {
   margin: 15px;
-  color: white;
+  padding: 5px 5px;
+  background-color: #000000;
+  color: #0018f9;
 }
 
 sub {
