@@ -255,6 +255,8 @@ footer ol li a {
   height: min-content;
   background-color: #121212;
   overflow: hidden;
+    border: 1px silver solid;
+
   
 }
 
@@ -265,7 +267,6 @@ footer ol li a {
   display: flex;
   justify-content: center;
   background-color: #121212;
-  border: 1px silver solid;
 }
 .close-steps {
   display: flex;
