@@ -651,8 +651,13 @@ input{
 
 
 
-/*media queries here*/
-@media (max-width: 716px) {
+/*media queries here*/@media (max-width: 716px) {
+  #discord-setup,
+#discord-setup-apple,
+#discord-setup-windows,
+#discord-setup-mac-book{
+  width: 100%;
+}
   .horizontal-img {
     display: none;
   }
