@@ -463,20 +463,6 @@ ol li {
   height: 200px;  object-fit: cover;
 }
 
-/*#property-Cont1, #property-Cont2, #property-Cont3, 
-#property-Cont4, #property-Cont5, #property-Cont6, 
-#property-Cont7, #property-Cont8, #property-Cont9, 
-#property-Cont10, #property-Cont11, #property-Cont12, 
-#property-Cont13, #property-Cont14, #property-Cont15, 
-#property-Cont16, #property-Cont17, #property-Cont18, 
-#property-Cont19, #property-Cont20, #property-Cont21, 
-#property-Cont22, #property-Cont23, #property-Cont24, 
-#property-Cont25, #property-Cont26, #property-Cont27, 
-#property-Cont28, #property-Cont29, #property-Cont30, 
-#property-Cont31, #property-Cont32, #property-Cont33, 
-#property-Cont34, #property-Cont35, #property-Cont36{
-  display: none;
-} */
 
 .popUp::-webkit-scrollbar {
   display: none;
@@ -655,9 +641,10 @@ input{
   #discord-setup,
 #discord-setup-apple,
 #discord-setup-windows,
-#discord-setup-mac-book{
+#discord-setup-mac-book,.popUp{
   width: 100%;
 }
+
   .horizontal-img {
     display: none;
   }
