@@ -253,8 +253,9 @@ footer ol li a {
   bottom: 10%;
   width: 80%;
   height: min-content;
-  background-color: #121212;
-  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.8)/*#000000;*/
+  /*-image: url("placeholder\Naza2.png");*/
+  /*overflow: hidden;*/
     
 
   
@@ -266,7 +267,8 @@ footer ol li a {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-color: #121212;
+  background-color: #212121;
+ 
 }
 .close-steps {
   display: flex;
@@ -282,12 +284,14 @@ footer ol li a {
 }
 
 .print-out {
-  font-family: arial, sans-serif;
+  /*font-family: arial, sans-serif;*/
   margin: 15px;
   padding: 10px 10px;
-  background-color: #000000;
-  color: #0018f9;
-  border: 1px #fff solid;
+  /*background-color: #000000;*/
+  background-color: rgba(0, 0, 0, 0.9);
+  /*color: #0018f9;*/
+  color: #29ab87;
+  /*border: 1px #fff solid;*/
 }
 
 sub {
