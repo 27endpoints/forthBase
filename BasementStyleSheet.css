@@ -131,7 +131,7 @@ figcaption {
   width: 350px;
   background-color: #212121;
   /*box-shadow: 0 0 10px 5px rgba(128, 0, 128, 0.8);*/
-  height: 300px; /*apply this on desktop*/
+  height: 250px; /*apply this on desktop*/
   /*border: 1px #ff00ff solid; */
   border: 1px silver solid;
   border-radius: 20px;
