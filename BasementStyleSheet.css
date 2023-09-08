@@ -60,7 +60,7 @@ nav ul li a {
   color: #ffffff;
   float: right;
   line-height: 80px;
-  margin-right: 25px;
+  margin-right: 15px;
   cursor: pointer;
   display: none;
 }
@@ -129,6 +129,7 @@ figcaption {
 .AnswerToQuestions {
   position: relative;
   width: 350px;
+  background-color: #212121;
   /*box-shadow: 0 0 10px 5px rgba(128, 0, 128, 0.8);*/
   height: 300px; /*apply this on desktop*/
   /*border: 1px #ff00ff solid; */
