@@ -129,10 +129,10 @@ figcaption {
 .AnswerToQuestions {
   position: relative;
   width: 350px;
-  box-shadow: 0 0 10px 5px rgba(128, 0, 128, 0.8);
+ /* box-shadow: 0 0 10px 5px rgba(128, 0, 128, 0.8);*/
   background-color: #212121;
   height: 300px; /*apply this on desktop*/
-  border: 1px #ff00ff solid; 
+  /*border: 1px #ff00ff solid; */
   border-radius: 20px;
   opacity: 0; /*initially hide the AnswerToQuestions container*/
   transform: translateX(-50px);
