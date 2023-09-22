@@ -330,6 +330,7 @@ sub {
   height: 250px;
   border: 1px solid #fff;
   background-color: #222;
+  border-radius: 15px;
 }
 .availability {
   margin-left: 1px;
