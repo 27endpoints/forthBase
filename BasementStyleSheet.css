@@ -129,7 +129,7 @@ figcaption {
 .AnswerToQuestions {
   position: relative;
   width: 350px;
-  background-color: #CAE9FF/*#fff/*212121*/;
+  background-color: #f2f2f2/*#fff/*212121*/;
   /*box-shadow: 0 0 10px 5px rgba(128, 0, 128, 0.8);*/
   height: 250px; /*apply this on desktop*/
   /*border: 1px #ff00ff solid; */
@@ -167,7 +167,7 @@ figcaption {
 footer {
   width: 100%;
   height: max-content;
-  background-color: #CAE9FF/*#fff/*111111*/;
+  background-color: #f2f2f2/*#fff/*111111*/;
 }
 footer ol {
   display: flex;
@@ -271,7 +271,7 @@ footer ol li a {
   align-items: center;
   display: flex;
   justify-content: center;
-  background-color: #CAE9FF/*212121*/;
+  background-color: #f2f2f2/*212121*/;
  
 }
 .close-steps {
@@ -329,7 +329,7 @@ sub {
   width: 300px;
   height: 250px;
   border: 1px solid #fff;
-  background-color: #CAE9FF/*fff/*222*/;
+  background-color: #f2f2f2/*fff/*222*/;
   border-radius: 15px;
 }
 .availability {
